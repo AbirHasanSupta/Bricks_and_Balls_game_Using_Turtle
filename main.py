@@ -9,7 +9,7 @@ import time
 
 screen = Screen()
 screen.bgcolor('skyblue')
-screen.title('Brick n Balls')
+screen.title("Bricks 'n Balls")
 screen.setup(width=850, height=600)
 
 screen.tracer(0)
